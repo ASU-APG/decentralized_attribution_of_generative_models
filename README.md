@@ -170,7 +170,6 @@ You can download pre-trained models here:
 
 ### Related Works
 [The reading list](https://github.com/ASU-Active-Perception-Group/awesome_attribution_of_generative_models) introduces related work of attribution of generative models.\
-attribution of generative models.
 We highly recommend this list to those who want to start to work on attribution of generative models.
 
 ### Citation
