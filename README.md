@@ -1,6 +1,6 @@
 ## Decentralized Attribution of Generative Models
 [Paper](https://arxiv.org/abs/2010.13974)\
-Pytorch implementation for Decentralized Attribution of Generative Models.
+Pytorch implementation for "Decentralized Attribution of Generative Models" (ICLR 2021).
 <p align="center">
   <img width="460" height="300" src="https://github.com/chkimmmmm/supplementary/blob/master/images/fig1.png">
 </p>

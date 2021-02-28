@@ -132,12 +132,14 @@ def attack_fake_data(args, data_loaders):
             fake_samples_path = attacked_fake_folder + "/fake_samples_1000"
 
             if (not os.path.isdir(attacked_fake_folder)):
-                os.system('mkdir {0}'.format(attacked_fake_folder))
+                #os.system('mkdir {0}'.format(attacked_fake_folder))
+                os.system(attacked_fake_folder)
             else:
                 pass
 
             if(not os.path.isdir(fake_samples_path)):
-                os.system('mkdir {0}'.format(fake_samples_path))
+                #os.system('mkdir {0}'.format(fake_samples_path))
+                os.system(fake_samples_path)
             else:
                 pass
 
@@ -356,8 +358,10 @@ if __name__ == "__main__":
 
         png_fake_folder = generator_weight_path + '/png_fake_samples'
         if(not os.path.isdir(png_fake_folder)):
-            os.system('mkdir {0}'.format(png_fake_folder))
-            os.system('mkdir {0}'.format(png_fake_folder + '/fake_samples_1000'))
+            #os.system('mkdir {0}'.format(png_fake_folder))
+            os.mkdir(png_fake_folder)
+            #os.system('mkdir {0}'.format(png_fake_folder + '/fake_samples_1000'))
+            os.mkdir(png_fake_folder + '/fake_samples_1000')
 
         fake_samples_path = png_fake_folder + "/fake_samples_1000"
 

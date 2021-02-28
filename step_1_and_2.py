@@ -54,7 +54,8 @@ if __name__ == "__main__":
     # Folder Setting
     project_path = os.getcwd() + '/'
     saving_path = project_path + args.experiment
-    os.system('mkdir {0}'.format(saving_path))
+    #os.system('mkdir {0}'.format(saving_path))
+    os.mkdir(saving_path)
     home_path = str(Path.home())
 
     # Tensorboard Writer

@@ -185,7 +185,9 @@ if __name__ == "__main__":
         key.requires_grad = False
 
         folder_name = project_path + 'g' + str(how_many_key_counter + 2) + '_k' + str(how_many_key_counter + 2) + args.experiment[5:]
-        os.system('mkdir {0}'.format(folder_name))
+        #os.system('mkdir {0}'.format(folder_name))
+        if (not os.path.isdir('g1_k1_crop_b0_lp2')):
+            os.mkdir(folder_name)
 
         image_size = math.sqrt(key_size/nc)
         image_size = int(image_size)
