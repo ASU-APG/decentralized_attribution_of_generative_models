@@ -175,8 +175,8 @@ We highly recommend this list to those who want to start to work on attribution 
 ### Citation
 ```bibtex
 @inproceedings{
-kim2021decentralized,
-title={{\{}DECENTRALIZED{\}} {\{}ATTRIBUTION{\}} {\{}OF{\}} {\{}GENERATIVE{\}} {\{}MODELS{\}}},
+kim2021,
+title={ Decentralized Attribution of Generative Models},
 author={Changhoon Kim and Yi Ren and Yezhou Yang},
 booktitle={International Conference on Learning Representations},
 year={2021},
