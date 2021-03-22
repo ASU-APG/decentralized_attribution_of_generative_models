@@ -3,6 +3,7 @@
 Pytorch implementation for "Decentralized Attribution of Generative Models" (ICLR 2021).
 
 ![fig1](https://user-images.githubusercontent.com/46791426/111937927-316c9480-8b0c-11eb-92e0-3b1c85e04dfb.png)
+<img src = "https://user-images.githubusercontent.com/46791426/111937927-316c9480-8b0c-11eb-92e0-3b1c85e04dfb.png" width="460" height="300">
 
 We develop sufficient conditions for model attribution: Perturbing the authentic dataset in different directions with angles larger than a data-dependent threshold guarantees attributability of the perturbed distributions.\
 (a) A threshold of 90 degrees suffices for benchmark datasets. \
