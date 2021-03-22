@@ -2,7 +2,7 @@
 [Paper](https://arxiv.org/abs/2010.13974)\
 Pytorch implementation for "Decentralized Attribution of Generative Models" (ICLR 2021).
 <p align="center">
-  <img width="460" height="300" src="https://github.com/chkimmmmm/supplementary/blob/master/images/fig1.png">
+  <img width="460" height="300" src="https://github.com/ASU-Active-Perception-Group/decentralized_attribution_of_generative_models/tree/master/images/fig1.png">
 </p>
 
 We develop sufficient conditions for model attribution: Perturbing the authentic dataset in different directions with angles larger than a data-dependent threshold guarantees attributability of the perturbed distributions.\
