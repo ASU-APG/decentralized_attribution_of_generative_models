@@ -164,7 +164,7 @@ Please see the evaluation.sh file in sh folder.
 ### Pre-trained Models
 We uploaded only twenty models for each of GANs.
 You can download pre-trained models here:
-- [Pre-trained models](https://drive.google.com/drive/folders/1j72a7YtpCM0TJTQz0A4Nr20qPyTj7CHZ?usp=sharing) 
+- [Pre-trained models](https://arizonastateu-my.sharepoint.com/:f:/g/personal/ckim79_sundevils_asu_edu/ElsBbe5lbP5NtE2JTXfxvR8Bqv-SbIgByqLHmzGODK3qBg?e=IQCIeR) 
 
 
 ### Related Works
